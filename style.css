@@ -20,4 +20,11 @@ div{
 }
 #btnContar{
     margin: 5px;
+   padding: 5px;
+}
+footer > p{
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-style: oblique;
 }
